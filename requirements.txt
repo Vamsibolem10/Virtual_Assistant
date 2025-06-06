@@ -1,0 +1,14 @@
+SpeechRecognition
+pyaudio
+pyttsx3
+openai
+pyautogui
+keyboard
+requests
+sounddevice
+numpy
+librosa
+scikit-learn
+psutil
+opencv-python
+PyPDF2
