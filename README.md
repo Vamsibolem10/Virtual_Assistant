@@ -31,22 +31,20 @@ Jarvis is a Python-powered desktop AI assistant that responds to your voice comm
 - OpenWeatherMap & NewsAPI
 - OpenCV for webcam access
 
----
-
 ## Setup Instructions
 
-**Install Dependencies**
+# Install Dependencies
 pip install -r requirements.txt
 
-**Add your Credential's**
+# Add your Credential's
 openai.api_key = "YOUR_OPENAI_KEY"
 weather_api_key = "YOUR_OPENWEATHER_KEY"
 news_api_key = "YOUR_NEWSAPI_KEY"
-gmail_user = "your_email@gmail.com"
+gmail_user = "your_email"
 gmail_password = "your_gmail_app_password"
-
-**Enroll your voice**
+ 
+# Enroll your voice
 python enroll_voice.py
 
-**Run Jarvis**
+# Run Jarvis
 python ai_assistant_advanced_updated.py
